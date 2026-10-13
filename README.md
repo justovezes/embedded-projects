@@ -1,6 +1,6 @@
 #  embedded-projects
-Hello, I am "Justo". An aspiring Firmware Developer based in Brazil. 
-This repo is aimed to share my practical projects, code, and experience with microcontrollers.
+Hello, I am "Justo". An aspiring developer based in Brazil. 
+This repo is aimed to share my practical projects with embeddeds, code, and experience with microcontrollers.
 
 ## Skills and Tools
 * **Languages:** C (C99+)
